@@ -3,3 +3,7 @@ I am excited to share my recent project — an Interactive Dashboard built using
 ## Dataset used
 
 <a href ="https://github.com/ashishmudga/Sales-Report-Dashboard/blob/main/Interactive%20Dashboard%20Practice.xlsx">dataset</a>
+
+## Dashboard image
+<a href = "https://github.com/ashishmudga/Sales-Report-Dashboard/blob/main/Sales%20Report%20Dashboard.png">Dashboard image</a>
+
